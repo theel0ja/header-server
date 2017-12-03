@@ -14,4 +14,4 @@ if (app.get('env') !== 'test') {
     app.listen(port, () => {
       console.log('Listening on port ' + port);
     });
-  }
+}
